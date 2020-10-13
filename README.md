@@ -1,6 +1,6 @@
 # **Watch how to make easy chocolate chip cookies**
 
-(download.jpg)
+(/download.jpg)
 
 ## __Ingredients__
 - 225g (1 cup) caster sugar
